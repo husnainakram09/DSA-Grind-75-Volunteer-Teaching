@@ -138,8 +138,6 @@ The **Grind 75** series covers all essential patterns for top-tier technical int
     </tr> -->
 </table>
 
-> 💡 *Replace `#` above with your YouTube and GitHub links.*
-
 ---
 
 ## 🧠 Teaching Philosophy
