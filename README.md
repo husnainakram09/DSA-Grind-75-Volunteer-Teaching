@@ -101,35 +101,119 @@ The **Grind 75** series covers all essential patterns for top-tier technical int
     <tr align="center">
         <td colspan="5">Week 2 | LinkedList</td>
     </tr>
-    <!-- <tr>
+    <tr>
+        <td>06</td>
+        <td>1</td>
+        <td><a href="https://www.youtube.com/live/1gjMrxcbggs?si=VJf7KkSQXrvnD6_2">▶️ Watch</a></td>
+        <td><a href="https://github.com/husnainakram09/DSA-leetcode-/tree/main/206-reverse-linked-list">💻 View Code</a></td>
+        <td><a href="https://leetcode.com/problems/reverse-linked-list/">🔗 Reverse Linked List</a></td>
+    </tr> 
+    <tr>
+        <td>07</td>
+        <td>2</td>
+        <td><a href="#">▶️ Watch</a></td>
+        <td><a href="#">💻 View Code</a></td>
+        <td><a href="#">🔗 Problems</a></td>
+    </tr>
+    <tr>
+        <td>08</td>
+        <td>3</td>
+        <td><a href="https://www.youtube.com/live/3PVGQmXVJt8?si=uWk2EGblU-H43GMi">▶️ Watch</a></td>
+        <td><a href="https://github.com/husnainakram09/DSA-leetcode-/tree/main/21-merge-two-sorted-lists">💻 View Code</a></td>
+        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">🔗 Merge Two Sorted Lists</a></td>
+    </tr>
+    <tr>
+        <td>09</td>
+        <td>4</td>
+        <td><a href="https://www.youtube.com/live/q_XjsVTOLwE?si=rORt7HQnPq1lBnRx">▶️ Watch</a></td>
+        <td><a href="https://github.com/husnainakram09/DSA-leetcode-/tree/main/19-remove-nth-node-from-end-of-list">💻 View Code</a></td>
+        <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">🔗 Remove nth Node from End of List</a></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>5</td>
+        <td><a href="#">▶️ Watch</a></td>
+        <td><a href="#">💻 View Code</a></td>
+        <td><a href="#">🔗 Problems</a></td>
+    </tr>
+    <tr align="center">
+        <td colspan="5">Week 3 | Trees</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>1</td>
+        <td><a href="https://www.youtube.com/live/dAU--cn6oqs?si=LwKqMh0JhSFKbLUu">▶️ Watch</a></td>
+        <td><a href="#">💻 Intro to Trees</a></td>
+        <td>🔗 N/A</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>2</td>
+        <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">▶️ Watch</a></td>
+        <td><a href="https://github.com/husnainakram09/DSA-leetcode-/tree/main/94-binary-tree-inorder-traversal">💻 View Code</a></td>
+        <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">🔗 Binary Tree Inorder Traversal</a></td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>3</td>
+        <td>▶️ N/A</td>
+        <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">💻 View Code</a></td>
+        <td><a href="https://github.com/husnainakram09/DSA-leetcode-/tree/main/102-binary-tree-level-order-traversal">🔗 Binary Tree Level Order Traversal</a></td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>4</td>
+        <td><a href="https://youtu.be/ETzjTyoYxh0">▶️ Watch</a></td>
+        <td><a href="https://github.com/husnainakram09/DSA-leetcode-/tree/main/104-maximum-depth-of-binary-tree">💻 View Code</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">🔗 Maximum Depth of Binary Tree</a></td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>5</td>
+        <td><a href="https://youtu.be/EuL8LZDX2t4">▶️ Watch</a></td>
+        <td>
+            <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">💻 View Code 1</a>
+            <br/>
+            <a href="https://leetcode.com/problems/symmetric-tree/">💻 View Code 2</a>
+        </td>
+        <td>
+            <a href="#">🔗 Problems</a>
+            <br/>
+            <a href="https://github.com/husnainakram09/DSA-leetcode-/tree/main/101-symmetric-tree">🔗 Symmetric Tree</a>
+        </td>
+    </tr>
+    <!-- <tr align="center">
+        <td colspan="5">Week 2 | LinkedList</td>
+    </tr>
+    <tr>
         <td>06</td>
         <td>1</td>
         <td><a href="">▶️ Watch</a></td>
         <td><a href="">💻 View Code</a></td>
         <td><a href="">🔗 Problems</a></td>
-    </tr> -->
-    <!-- <tr>
+    </tr>
+    <tr>
         <td>07</td>
         <td>2</td>
         <td><a href="">▶️ Watch</a></td>
         <td><a href="">💻 View Code</a></td>
         <td><a href="">🔗 Problems</a></td>
-    </tr> -->
-    <!-- <tr>
+    </tr>
+    <tr>
         <td>08</td>
         <td>3</td>
         <td><a href="">▶️ Watch</a></td>
         <td><a href="">💻 View Code</a></td>
         <td><a href="">🔗 Problems</a></td>
-    </tr> -->
-    <!-- <tr>
+    </tr>
+    <tr>
         <td>09</td>
         <td>4</td>
         <td><a href="">▶️ Watch</a></td>
         <td><a href="">💻 View Code</a></td>
         <td><a href="">🔗 Problems</a></td>
-    </tr> -->
-    <!-- <tr>
+    </tr>
+    <tr>
         <td>10</td>
         <td>5</td>
         <td><a href="">▶️ Watch</a></td>
